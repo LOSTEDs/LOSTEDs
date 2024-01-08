@@ -60,4 +60,4 @@ I'm a not-so-great, full of flaws, and nerdy high school child passionate/addict
 <img src="https://raw.githubusercontent.com/LOSTEDs/LOSTEDs/master/assets/BungeeCord.png" width="80px" alt="BungeeCord">
 </p>
 
-#### Woohoo! You can contact me through Discord! [LOSTED#2208]
+#### Woohoo! You can contact me through Discord! [screwlove]
