@@ -1,4 +1,4 @@
-### Hello there! 👋 I'm LOSTED.
+### Hello there! 👋 I'm Hao!
 I'm a not-so-great, full of flaws, and nerdy high school child passionate/addicted to programming.
 
 #### Programming languages I love
